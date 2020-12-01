@@ -1,0 +1,48 @@
+Curso: Metodos Numericos
+Profesor: Juan Luna Valdez
+Autor: Frank Anthony Oroche Quispe (16200201)
+Descripcion: Son algoritmos implementados en el lenguaje c++,
+	     en los cuales las funciones se ingresan por codigo,
+	     los parametros y salida por consola
+-------------------------------------------------
+* Metodos a solucion numerica de una ecaucion no lineal en una variable:
+	-Metodo de Biseccion
+	-Metodo de Posicion falsa
+	-Metodo del punto fijo
+	-Metodo de Newton Raphson
+	-Metodo de Newton Raphson Modificado
+	-Metodo de la Secante
+
+* Metodos a solucion numerica de sistemas de ecuaciones:
+	-Eliminacion Gaussiana sin Pivoteo
+	-Eliminacion Gaussiana con Pivoteo Parcial
+	-Eliminacion Gaussiana con Pivoteo Escalado
+	-Factorizacion A=LU
+	-Factorizacion PA=LU
+	-Factorizacion de Choleski
+
+* Metodos de Interpolacion Polinomaial:
+	-Forma de Lagrange
+	-Forma de Newton
+
+* Metodos de Derivacion numerica:
+	-Formula Centrada de Orden 0(h2)
+	-Formula Centrada de Orden 0(h4)
+	-Extrapolacion de Richardson
+
+* Metodos de Integracion numerica:
+	-Regla de los Trapecios
+	-Regla de Simpson (1/3)
+	-Regla de Simpson (3/8)
+	-Integracion de Romberg(contiene la extrapolacion de richarson)
+
+* Metodos a solucion numerica de problemas de valor inicial para ecuaciones diferenciales ordinarias (EDO):
+	-Metodo de Euler
+	-Metodo de Euler Mejorado
+	-Metodo de Euler Modificado
+	-Metodo de Runge Kutta
+	-Metodo de Adams Bashforth
+	-Metodo de Adams Moulton
+
+-----------------------------------------------------------------------------------------
+Total: 27 algoritmos implementados en c++
